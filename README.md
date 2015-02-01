@@ -99,7 +99,7 @@ In 2010, Joshua Schachter, the founder of Delicious, [posted the following](http
 
 In 2013, Sharjeel Qureshi, [posted the following](https://news.ycombinator.com/item?id=5235137):
 
-> Few years ago, Joshua Schachter started this thread on LaunchZap for discussing hosted useful services: https://news.ycombinator.com/item?id=1769910
+> Few years ago, Joshua Schachter started this thread on HackerNews for discussing hosted useful services: https://news.ycombinator.com/item?id=1769910
 > The contribution in thread introduced many interesting SaaS services which can immensely help in deploying services as well as development.
 > It's been three years since then. What do we have today?
 
