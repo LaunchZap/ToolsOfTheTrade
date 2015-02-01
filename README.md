@@ -1,7 +1,7 @@
-# HN Tools of The Trade, 2014 Edition
+# LaunchZap Tools of The Trade, 2014 Edition
 **Table of Contents**
 
-* [HN Tools of The Trade, 2014 Edition](#user-content-hn-tools-of-the-trade-2014-edition)
+* [LaunchZap Tools of The Trade, 2014 Edition - A branch of the HN tools](#user-content-LaunchZap-tools-of-the-trade-2014-edition)
   * [Background](#user-content-background)
   * [Now](#user-content-now)
   * [The List](#user-content-the-list)
@@ -99,7 +99,7 @@ In 2010, Joshua Schachter, the founder of Delicious, [posted the following](http
 
 In 2013, Sharjeel Qureshi, [posted the following](https://news.ycombinator.com/item?id=5235137):
 
-> Few years ago, Joshua Schachter started this thread on HN for discussing hosted useful services: https://news.ycombinator.com/item?id=1769910
+> Few years ago, Joshua Schachter started this thread on LaunchZap for discussing hosted useful services: https://news.ycombinator.com/item?id=1769910
 > The contribution in thread introduced many interesting SaaS services which can immensely help in deploying services as well as development.
 > It's been three years since then. What do we have today?
 
@@ -221,7 +221,7 @@ and send personalized messages to the right users at the right time.
 * Codeship | https://codeship.io | [@codeship](https://twitter.com/codeship) | Continuous Delivery as a service, start testing and deploying your code immediately | Start with 100 builds per month free, Unlimited plans start at 49$
 * Circle | http://circleci.com | [@circleci](https://twitter.com/circleci) | $19/mo - $269/mo | Ship better code, faster | Easy, fast, continuous integration and deployment for web apps.
 * Hound | http://houndci.com | [@houndci](http://twitter.com/houndci) | Free | Automated Code Review | Take care of pesky code reviews with a trusty Hound
-* CodeClimate | http://codeclimate.com | [@codeclimate](http://twitter.com/codeclimate) | $0/mo - $399/mo | Automated  Code Review | Code Climate hosted software metrics help you ship quality Ruby and JavaScript code faster. Get control of your technical debt with real time static analysis of your code.
+* CodeClimate | http://codeclimate.com | [@codeclimate](http://twitter.com/codeclimate) | $0/mo - $399/mo | Automated  Code Review | Code Climate hosted software metrics help you ship quality Ruby and JavaScript code faster. Get control of your tecLaunchZapical debt with real time static analysis of your code.
 * Codacy | http://codacy.com | $0-$150/mo | Automated Code Review | Continuous Static Analysis designed to complement your unit tests. Similar to CodeClimate.
 * PullReview | https://www.pullreview.com/ | 0€-24.2€/mo/developer | Automated Code Review | Similar to Codacy/CodeClimate (?) but only for ruby.
 * Semaphore | https://semaphoreapp.com | [@semaphoreapp](https://twitter.com/semaphoreapp) | $14/mo - $899/mo | Create an Amazing Workflow. | Semaphore assumes that your private or open source project is on GitHub. There are no new dependencies, hooks or SSH keys to manage. It works without any change in source code.
@@ -354,7 +354,7 @@ or don't do in your app | Customer.io lets you send newsletters to segments of c
 
 #### Email Collection/Landing Page Apps
 * Launchrock | http://launchrock.com | [@launchrock](https://twitter.com/launchrock) | $49/mo - $199/mo |  | Even if you know how to code a web page with HTML, you'll love how much faster it is with our landing page builder. Load up your logo and graphic assets, set up a few base colors from your brand palette and publish away.
-* Unbounce | http://unbounce.com | [@unbounce](https://twitter.com/unbounce) | $49/mo - $199/mo |  | Unbounce empowers marketers to act independently from technical teams, improving their efficiency and their ability to generate sales. Produce high-converting landing pages without dealing with I.T. bottlenecks. See how Unbounce can enhance your campaigns and maximize your marketing spend.
+* Unbounce | http://unbounce.com | [@unbounce](https://twitter.com/unbounce) | $49/mo - $199/mo |  | Unbounce empowers marketers to act independently from tecLaunchZapical teams, improving their efficiency and their ability to generate sales. Produce high-converting landing pages without dealing with I.T. bottlenecks. See how Unbounce can enhance your campaigns and maximize your marketing spend.
 * KickoffLabs | http://www.kickofflabs.com | [@kickofflabs](http://twitter.com/kickofflabs) | $29/mo - $99/mo | Stop building landing pages.
 Start building smarter campaigns. | Send customers to a tailored page that speaks to them. Keep them engaged with signup-forms, newsletters and – best of all – a very cool, unique REWARD system for customer referrals.
 * Launch Effect | http://launcheffectapp.com | [@#!/LaunchEffect](http://twitter.com/#!/LaunchEffect) | $35/mo-  $65/mo | A WORDPRESS THEME FOR
@@ -399,7 +399,7 @@ for Your Enterprise | Whether planning ahead or booking on the fly, find and res
 * Discourse | http://www.discourse.org/ | [@discourse](https://twitter.com/discourse) |  | Ready for a new discussion platform? | Discussion software is a group of people interested in a common topic who are willing to type paragraphs to each other on a web page.
 
 #### Personal Productivity
-* Tomatoes | http://tomato.es | [@tomatoesapp](http://twitter.com/tomatoesapp) |  | Track your time and be productive with the Pomodoro Technique | Tomatoes is a "pomodoro tracker", a Pomodoro technique® driven time tracker. Track your time using 25 minutes slots called "pomodoros".
+* Tomatoes | http://tomato.es | [@tomatoesapp](http://twitter.com/tomatoesapp) |  | Track your time and be productive with the Pomodoro TecLaunchZapique | Tomatoes is a "pomodoro tracker", a Pomodoro tecLaunchZapique® driven time tracker. Track your time using 25 minutes slots called "pomodoros".
 * Do.com
 
 #### Prototyping/Mockups
@@ -423,7 +423,7 @@ your goals and take your project to the next level.
 IN MINUTES | PickFu is a tool that provides instant, unbiased and insightful public opinion on questions that you care about.
 
 #### Sales
-* ElasticSales | https://elasticsales.com/ | [@elasticsales](https://twitter.com/elasticsales) |  | Sales as a service | We provide companies a scalable sales team on demand. You can manage your entire sales force via the cloud and get analytics and metrics in real-time. We have the best sales reps in technology and have a powerful operational process to onboarding highly technical products and platforms and scaling their revenue quickly.
+* ElasticSales | https://elasticsales.com/ | [@elasticsales](https://twitter.com/elasticsales) |  | Sales as a service | We provide companies a scalable sales team on demand. You can manage your entire sales force via the cloud and get analytics and metrics in real-time. We have the best sales reps in tecLaunchZapology and have a powerful operational process to onboarding highly tecLaunchZapical products and platforms and scaling their revenue quickly.
 
 #### Data
 * Factual | http://www.factual.com/ | [@Factual](http://www.twitter.com/Factual) |  | GLOBAL DATA. LOCAL CONTEXT. | Factual’s location platform enriches mobile location signals with definitive global data, enabling personalized and contextually relevant mobile experiences. Built from billions of inputs, the data is constantly updated by Factual’s real-time data stack.
@@ -741,7 +741,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 
 Star the repo to help ensure it is maintained.
 
-[Tweet this repo](https://twitter.com/intent/tweet?related=chrisbarber&text=HN Tools of The Trade, 2014 Edition&url=https%3A%2F%2Fgithub.com%2Fcjbarber%2FToolsOfTheTrade&via=chrisbarber) so that more people discover it, and add to it.
+[Tweet this repo](https://twitter.com/intent/tweet?related=chrisbarber&text=LaunchZap Tools of The Trade, 2014 Edition&url=https%3A%2F%2Fgithub.com%2Fcjbarber%2FToolsOfTheTrade&via=chrisbarber) so that more people discover it, and add to it.
 
 ### Can I Add My Own Tool?
 
