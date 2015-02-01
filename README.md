@@ -1,4 +1,4 @@
-# LaunchZap Tools of The Trade, 2014 Edition
+# Tools of The Trade, 2014 Edition - A improved version of the HN tools by LaunchZap
 **Table of Contents**
 
 * [LaunchZap Tools of The Trade, 2014 Edition - A branch of the HN tools](#user-content-LaunchZap-tools-of-the-trade-2014-edition)
