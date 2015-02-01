@@ -741,7 +741,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 
 Star the repo to help ensure it is maintained.
 
-[Tweet this repo](https://twitter.com/intent/tweet?related=chrisbarber&text=LaunchZap Tools of The Trade, 2014 Edition&url=https%3A%2F%2Fgithub.com%2Fcjbarber%2FToolsOfTheTrade&via=chrisbarber) so that more people discover it, and add to it.
+[Tweet this repo](https://twitter.com/intent/tweet?related=elcubonegro&text=LaunchZap Tools of The Trade, 2014 Edition&url=https%3A%2F%2Fgithub.com%2Flaunchzap%2FToolsOfTheTrade&via=elcubonegro) so that more people discover it, and add to it.
 
 ### Can I Add My Own Tool?
 
@@ -749,4 +749,4 @@ If you'd like to issue a PR to add your own tool, I will merge it ASAP if you in
 
 **To be clear, I will not merge in pull requests to add your own tool**, without maintenance/improvements to the repo. This is to ensure this repos longevity.
 
-Issue a pull request or edit on [Prose](http://prose.io/#cjbarber/ToolsOfTheTrade/edit/master/README.md)
+Issue a pull request or edit on [Prose](http://prose.io/#launchzap/ToolsOfTheTrade/edit/master/README.md)
